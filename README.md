@@ -68,3 +68,32 @@ Summarify aims to:
    ```bash
    git clone https://github.com/your-repo/summarify.git
    cd summarify
+   
+2. Install Flutter dependencies:
+   ```bash
+   flutter pub get
+
+3. Set up Firebase in your Flutter app: Follow the instructions here to link your Firebase project with your Flutter app.
+
+### Backend Setup
+
+1. Install the required dependencies: Ensure that Python is installed on your machine and that the necessary libraries are available. Install dependencies for the backend:
+
+   ```bash
+   pip install -r requirements.txt
+
+2. Ensure the backend (Gemini AI model) is properly configured: The backend should be set up to process uploaded documents using the Gemini AI model. This includes integrating the Firebase Firestore with the backend to store documents, summaries, and questions securely.
+
+3. Start the backend server: Start the backend server to handle document processing and syncing with Firebase:
+
+   ```bash
+   python app.py
+
+### Running the App
+
+1. Run the Flutter app:
+
+   ```bash
+   flutter run
+
+2. Upload multiple documents and interact with the summarized content and questions in real-time.
