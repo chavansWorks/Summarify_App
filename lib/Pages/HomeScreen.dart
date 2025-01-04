@@ -360,10 +360,6 @@ class _SummaryPageState extends State<SummaryPage> {
     );
   }
 
-  // void _toggleTheme() {
-  //   // Use ThemeProvider to toggle the theme
-  //   Provider.of<ThemeProvider>(context, listen: false).toggleTheme();
-  // }
 
   void _showLoadingDialog(BuildContext context) {
     showDialog(
