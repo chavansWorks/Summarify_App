@@ -99,4 +99,6 @@ Summarify aims to:
 2. Upload multiple documents and interact with the summarized content and questions in real-time.
 
 ###Summarify Images:
-![About Us](Images/AboutUs.jpg)
+
+<img src="Images/AboutUs.jpg" width="300" />
+
