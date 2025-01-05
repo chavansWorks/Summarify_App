@@ -99,6 +99,31 @@ Summarify aims to:
 2. Upload multiple documents and interact with the summarized content and questions in real-time.
 
 ###Summarify Images:
+## Screenshots of Summarify
 
-<img src="Images/AboutUs.jpg" width="300" />
+### Main Screens
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="Images/AboutUs.jpg" width="300" style="margin: 10px;" />
+  <img src="Images/DarkMode_Summarify.jpg" width="300" style="margin: 10px;" />
+  <img src="Images/Dashboard_Summarify.jpg" width="300" style="margin: 10px;" />
+  <img src="Images/Feedback.jpg" width="300" style="margin: 10px;" />
+  <img src="Images/HomeScreen_Summarify.jpg" width="300" style="margin: 10px;" />
+</div>
+
+### Additional Features
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="Images/MoreFeature.jpg" width="300" style="margin: 10px;" />
+  <img src="Images/MultipleDocSelection_Summarify.jpg" width="300" style="margin: 10px;" />
+  <img src="Images/Save_&_GeneratePDF.jpg" width="300" style="margin: 10px;" />
+  <img src="Images/Search_History.jpg" width="300" style="margin: 10px;" />
+  <img src="Images/SignIn_Summarify.jpg" width="300" style="margin: 10px;" />
+</div>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="Images/SignUp_Summarify.jpg" width="300" style="margin: 10px;" />
+  <img src="Images/Summaries_with_languageSupport.jpg" width="300" style="margin: 10px;" />
+  <img src="Images/Summarify.jpg" width="300" style="margin: 10px;" />
+</div>
 
