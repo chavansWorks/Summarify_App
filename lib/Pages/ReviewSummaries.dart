@@ -73,7 +73,7 @@ class DetailPage extends StatelessWidget {
               child: Container(
                 padding: const EdgeInsets.all(16.0),
                 decoration: BoxDecoration(
-                  color: themeProvider.isDarkMode ? Colors.black : Colors.white,
+                  color: themeProvider.isDarkMode ? Colors.grey[800] : Colors.white,
                   borderRadius: BorderRadius.circular(12.0),
                   boxShadow: [
                     BoxShadow(
