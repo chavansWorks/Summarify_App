@@ -426,7 +426,7 @@ class _SignupScreenState extends State<SignupScreen> {
                 width: double.infinity,
                 decoration: BoxDecoration(
                   image: DecorationImage(
-                    image: AssetImage('assets/background/bg.jpg'),
+                    image: AssetImage('assets/background/Bg.jpg'),
                     fit: BoxFit.cover,
                   ),
                 ),
