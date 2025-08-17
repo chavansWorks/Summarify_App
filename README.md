@@ -99,9 +99,6 @@ Summarify aims to:
 2. Upload multiple documents and interact with the summarized content and questions in real-time.
 
 ###Summarify Images:
-## Screenshots of Summarify
-
-
 
 ## Screenshots of Summarify
 
